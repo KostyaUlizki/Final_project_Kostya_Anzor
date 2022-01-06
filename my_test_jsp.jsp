@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-<h2>Final Project - jsp file</h2>
+<h2>Final Project - jsp file - WITH CHANGE</h2>
 <img src="https://media.gm.com/dld/content/dam/Media/images/INTL/chevrolet/passenger-cars/camaro-coupe/2013/driving-shots/Chevrolet-Camaro-Coupe-258661.jpg" alt="HTML5 Icon" style="width:256px;height:256px;">
 
 <p> </p>
